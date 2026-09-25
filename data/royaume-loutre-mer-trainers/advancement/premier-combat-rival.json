@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "title": "Mon premier combat avec mon rival",
+    "description": "Battre une première fois son rival",
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "defeated": {
+      "trigger": "cobblemon-trainers:trainer_defeated",
+      "conditions": {
+        "trainer": "royaume-loutre-mer-trainers:rival/arisoutre-1"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "defeated"
+    ]
+  ]
+}

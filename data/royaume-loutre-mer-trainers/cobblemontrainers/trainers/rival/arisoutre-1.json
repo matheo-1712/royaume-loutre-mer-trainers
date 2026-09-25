@@ -1,0 +1,27 @@
+{
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 5,
+    "music": "cobblemon-trainers:battle_music.trainer_battle_hgss",
+    "difficulty": 2,
+    "intro": "bw"
+  },
+  "team": [
+    "Pikachu\nAbility: Static\n- Thunderbolt\n- Quick Attack"
+  ],
+  "name": "Arisoutre",
+  "requires": {
+    "hidden": false
+  },
+  "location": {
+    "label": "Partout"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}
