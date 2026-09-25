@@ -6,12 +6,12 @@
   },
   "battle": {
     "level": 5,
-    "music": "cobblemon-trainers:battle_music.trainer_battle_hgss",
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
     "difficulty": 2,
     "intro": "bw"
   },
   "team": [
-    "Pikachu\nAbility: Static\n- Thunderbolt\n- Quick Attack"
+    "Piplup @ Sitrus Berry  \nAspects : rlm\nAbility: Torrent  \nLevel: 5  \nTera Type: Water  \nIVs: 0 Atk  \n- Bubble Beam  \n- Growl"
   ],
   "name": "Arisoutre",
   "requires": {

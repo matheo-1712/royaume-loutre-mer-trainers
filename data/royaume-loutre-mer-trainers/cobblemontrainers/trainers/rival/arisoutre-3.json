@@ -1,0 +1,26 @@
+{
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "team": [
+    "Prinplup @ Sitrus Berry  \nAspects: rlm\nAbility: Torrent  \nLevel: 16\nTera Type: Water  \nIVs: 0 Atk  \n- Bubble Beam  \n- Growl\n- Peck",
+    "Luxio @ Sitrus Berry  \nAspects: rlm\nAbility: intimidate\nLevel: 16\nTera Type: Ice\nIVs: 0 Atk  \n- icywind\n- tackle\n- hail\n- Bite"
+  ],
+  "requires": {
+    "defeated": [
+      "rival/arisoutre-2"
+    ]
+  },
+  "battle": {
+    "level": 16,
+    "difficulty": 3,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "progress": {
+    "hideAfterDefeat": true
+  },
+  "name": "Arisoutre"
+}

@@ -1,0 +1,10 @@
+{
+  "battle_music.bw2_rival_battle_theme": {
+    "sounds": [
+      {
+        "name": "royaume-loutre-mer-trainers:battle_music/bw2_rival_battle_theme",
+        "stream": true
+      }
+    ]
+  }
+}
