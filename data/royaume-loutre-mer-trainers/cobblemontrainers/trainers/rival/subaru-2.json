@@ -1,0 +1,37 @@
+{
+  "name": "Subaru",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 32,
+    "difficulty": 3,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Braixen\nAspects: rlm\n- Flame Charge\n- Psybeam\n- Light Screen\n- Ember",
+    "Corvisquire\n- Pluck\n- Power Trip\n- Swagger\n- Scary Face",
+    "Carkol\n- Flame Charge\n- Rock Blast\n- Smokescreen\n- Ancient Power"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.subaru-2.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.subaru-2.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.subaru-2.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/subaru-1"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 3]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

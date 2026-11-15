@@ -1,0 +1,38 @@
+{
+  "name": "Arisoutre",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 35,
+    "difficulty": 4,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Prinplup @ Sitrus Berry\nAspects: rlm\n- Bubble Beam\n- Peck\n- Metal Claw\n- Growl",
+    "Luxray @ Sitrus Berry\nAspects: rlm\n- Wild Charge\n- Crunch\n- Ice Fang\n- Volt Switch",
+    "Staravia @ Sitrus Berry\nAspects: rlm\n- Wing Attack\n- Quick Attack\n- Double Team\n- Aerial Ace",
+    "Roselia @ Sitrus Berry\nAspects: rlm\n- Mega Drain\n- Poison Sting\n- Magical Leaf\n- Stun Spore"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-5.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-5.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-5.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/arisoutre-4"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 4]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

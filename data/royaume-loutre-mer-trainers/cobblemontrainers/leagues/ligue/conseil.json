@@ -1,0 +1,30 @@
+{
+  "name": "league.royaume-loutre-mer-trainers.conseil.name",
+  "host": {
+    "name": "league.royaume-loutre-mer-trainers.conseil.host",
+    "skin": {
+      "type": "texture",
+      "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+      "model": "slim"
+    },
+    "messages": {
+      "greeting": "league.royaume-loutre-mer-trainers.conseil.greeting",
+      "between": "league.royaume-loutre-mer-trainers.conseil.between",
+      "win": "league.royaume-loutre-mer-trainers.conseil.win",
+      "lose": "league.royaume-loutre-mer-trainers.conseil.lose"
+    }
+  },
+  "trainers": [
+    "ligue/conseil-1",
+    "ligue/conseil-2",
+    "ligue/conseil-3",
+    "ligue/conseil-4",
+    "ligue/maitre"
+  ],
+  "rewards": [
+    {
+      "item": "cobblemon:master_ball",
+      "firstWinOnly": true
+    }
+  ]
+}

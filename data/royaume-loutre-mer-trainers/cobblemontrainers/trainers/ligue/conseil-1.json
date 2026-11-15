@@ -1,0 +1,27 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.conseil1.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 68,
+    "difficulty": 5,
+    "intro": "bw"
+  },
+  "team": [
+    "Gyarados\n- Waterfall\n- Crunch\n- Dragon Dance\n- Ice Fang",
+    "Lanturn\n- Surf\n- Discharge\n- Ice Beam\n- Confuse Ray",
+    "Kingdra\n- Hydro Pump\n- Dragon Pulse\n- Ice Beam\n- Agility"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.ligue.conseil-1.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.ligue.conseil-1.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.ligue.conseil-1.lose"
+  },
+  "notCallable": true,
+  "progress": {
+    "listed": false
+  }
+}

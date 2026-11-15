@@ -1,0 +1,33 @@
+{
+  "name": "Elystha",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 28,
+    "difficulty": 3,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Haunter\n- Lick\n- Hypnosis\n- Night Shade\n- Shadow Punch",
+    "Murkrow\n- Wing Attack\n- Night Shade\n- Haze\n- Astonish"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.lose"
+  },
+  "requires": {
+    "hidden": false
+  },
+  "location": {
+    "label": "[LIEU — chapitre 3]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

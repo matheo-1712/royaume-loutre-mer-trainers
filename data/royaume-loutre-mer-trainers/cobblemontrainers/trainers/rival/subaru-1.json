@@ -1,0 +1,33 @@
+{
+  "name": "Subaru",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 20,
+    "difficulty": 3,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Fennekin\nAspects: rlm\n- Ember\n- Psybeam\n- Howl\n- Scratch",
+    "Rookidee\n- Peck\n- Power Trip\n- Fury Attack\n- Leer"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.lose"
+  },
+  "requires": {
+    "hidden": false
+  },
+  "location": {
+    "label": "[LIEU — chapitre 2]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

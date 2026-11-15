@@ -1,0 +1,27 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.conseil2.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 69,
+    "difficulty": 5,
+    "intro": "bw"
+  },
+  "team": [
+    "Hippowdon\n- Earthquake\n- Stone Edge\n- Slack Off\n- Crunch",
+    "Rhyperior\n- Rock Wrecker\n- Earthquake\n- Megahorn\n- Hammer Arm",
+    "Tyranitar\n- Stone Edge\n- Crunch\n- Earthquake\n- Dragon Dance"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.ligue.conseil-2.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.ligue.conseil-2.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.ligue.conseil-2.lose"
+  },
+  "notCallable": true,
+  "progress": {
+    "listed": false
+  }
+}

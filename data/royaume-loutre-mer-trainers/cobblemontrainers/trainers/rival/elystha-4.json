@@ -1,0 +1,39 @@
+{
+  "name": "Elystha",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 58,
+    "difficulty": 5,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Gengar\n- Shadow Ball\n- Sludge Bomb\n- Hypnosis\n- Dark Pulse",
+    "Honchkrow\n- Night Slash\n- Brave Bird\n- Sucker Punch\n- Nasty Plot",
+    "Zoroark\n- Night Daze\n- Flamethrower\n- Focus Blast\n- Nasty Plot",
+    "Sableye\n- Shadow Claw\n- Fake Out\n- Will-O-Wisp\n- Knock Off",
+    "Spiritomb\nAspects: rlm\n- Shadow Sneak\n- Dark Pulse\n- Hypnosis\n- Sucker Punch"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.elystha-4.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.elystha-4.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.elystha-4.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/elystha-3"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 7]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

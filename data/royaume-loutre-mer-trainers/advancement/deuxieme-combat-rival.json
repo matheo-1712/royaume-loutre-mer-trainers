@@ -1,0 +1,29 @@
+{
+  "parent": "royaume-loutre-mer-trainers:root",
+  "display": {
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "title": {
+      "translate": "advancement.royaume-loutre-mer-trainers.deuxieme-combat-rival.title"
+    },
+    "description": {
+      "translate": "advancement.royaume-loutre-mer-trainers.deuxieme-combat-rival.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "defeated": {
+      "trigger": "cobblemon-trainers:trainer_defeated",
+      "conditions": {
+        "trainer": "royaume-loutre-mer-trainers:rival/arisoutre-2"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "defeated"
+    ]
+  ]
+}
