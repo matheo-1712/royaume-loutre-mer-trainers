@@ -5,10 +5,10 @@
       "id": "cobblemon:ultra_ball"
     },
     "title": {
-      "translate": "advancement.royaume-loutre-mer-trainers.rival.rival3-3.title"
+      "translate": "advancement.royaume-loutre-mer-trainers.rival.subaru-4.title"
     },
     "description": {
-      "translate": "advancement.royaume-loutre-mer-trainers.rival.rival3-3.description"
+      "translate": "advancement.royaume-loutre-mer-trainers.rival.subaru-4.description"
     },
     "frame": "challenge",
     "hidden": true
@@ -17,7 +17,7 @@
     "defeated": {
       "trigger": "cobblemon-trainers:trainer_defeated",
       "conditions": {
-        "trainer": "royaume-loutre-mer-trainers:rival/rival3-3"
+        "trainer": "royaume-loutre-mer-trainers:rival/subaru-4"
       }
     }
   },

@@ -1,5 +1,5 @@
 {
-  "name": "trainer.royaume-loutre-mer-trainers.rival3.name",
+  "name": "Elystha",
   "skin": {
     "type": "texture",
     "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
@@ -16,9 +16,9 @@
     "Murkrow\n- Wing Attack\n- Night Shade\n- Haze\n- Astonish"
   ],
   "messages": {
-    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival3-1.greeting",
-    "win": "trainer.royaume-loutre-mer-trainers.rival.rival3-1.win",
-    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival3-1.lose"
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.elystha-1.lose"
   },
   "requires": {
     "hidden": false

@@ -1,5 +1,5 @@
 {
-  "name": "trainer.royaume-loutre-mer-trainers.rival2.name",
+  "name": "Subaru",
   "skin": {
     "type": "texture",
     "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
@@ -12,13 +12,13 @@
     "intro": "bw"
   },
   "team": [
-    "Litleo\n- Ember\n- Headbutt\n- Noble Roar\n- Work Up",
+    "Fennekin\nAspects: rlm\n- Ember\n- Psybeam\n- Howl\n- Scratch",
     "Rookidee\n- Peck\n- Power Trip\n- Fury Attack\n- Leer"
   ],
   "messages": {
-    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival2-1.greeting",
-    "win": "trainer.royaume-loutre-mer-trainers.rival.rival2-1.win",
-    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival2-1.lose"
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.subaru-1.lose"
   },
   "requires": {
     "hidden": false

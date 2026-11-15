@@ -2,13 +2,13 @@
   "parent": "royaume-loutre-mer-trainers:root",
   "display": {
     "icon": {
-      "id": "cobblemon:great_ball"
+      "id": "rlm_megas:flammikite"
     },
     "title": {
-      "translate": "advancement.royaume-loutre-mer-trainers.rival.rival3-1.title"
+      "translate": "advancement.royaume-loutre-mer-trainers.rlm.mega-flammiko.title"
     },
     "description": {
-      "translate": "advancement.royaume-loutre-mer-trainers.rival.rival3-1.description"
+      "translate": "advancement.royaume-loutre-mer-trainers.rlm.mega-flammiko.description"
     },
     "frame": "challenge",
     "hidden": true
@@ -17,7 +17,7 @@
     "defeated": {
       "trigger": "cobblemon-trainers:trainer_defeated",
       "conditions": {
-        "trainer": "royaume-loutre-mer-trainers:rival/rival3-1"
+        "trainer": "cobblemonrlm:mega_trainers/flammiko"
       }
     }
   },

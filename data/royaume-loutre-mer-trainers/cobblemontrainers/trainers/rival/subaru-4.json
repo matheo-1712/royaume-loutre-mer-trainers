@@ -1,5 +1,5 @@
 {
-  "name": "trainer.royaume-loutre-mer-trainers.rival2.name",
+  "name": "Subaru",
   "skin": {
     "type": "texture",
     "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
@@ -12,6 +12,7 @@
     "intro": "bw"
   },
   "team": [
+    "Delphox\nAspects: rlm\n- Mystical Fire\n- Psychic\n- Shadow Ball\n- Flamethrower",
     "Pyroar\n- Flamethrower\n- Hyper Voice\n- Dark Pulse\n- Noble Roar",
     "Corviknight\n- Brave Bird\n- Iron Head\n- Bulk Up\n- Roost",
     "Coalossal\n- Heat Crash\n- Stone Edge\n- Tar Shot\n- Rapid Spin",
@@ -19,14 +20,14 @@
     "Toxtricity\n- Overdrive\n- Sludge Bomb\n- Boomburst\n- Volt Switch"
   ],
   "messages": {
-    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival2-4.greeting",
-    "win": "trainer.royaume-loutre-mer-trainers.rival.rival2-4.win",
-    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival2-4.lose"
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.subaru-4.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.subaru-4.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.subaru-4.lose"
   },
   "requires": {
     "hidden": false,
     "defeated": [
-      "rival/rival2-3"
+      "rival/subaru-3"
     ]
   },
   "location": {

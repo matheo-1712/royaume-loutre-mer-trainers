@@ -1,0 +1,29 @@
+{
+  "parent": "royaume-loutre-mer-trainers:root",
+  "display": {
+    "icon": {
+      "id": "rlm_megas:ampharositerlm"
+    },
+    "title": {
+      "translate": "advancement.royaume-loutre-mer-trainers.rlm.mega-ampharos.title"
+    },
+    "description": {
+      "translate": "advancement.royaume-loutre-mer-trainers.rlm.mega-ampharos.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "defeated": {
+      "trigger": "cobblemon-trainers:trainer_defeated",
+      "conditions": {
+        "trainer": "cobblemonrlm:mega_trainers/ampharos"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "defeated"
+    ]
+  ]
+}

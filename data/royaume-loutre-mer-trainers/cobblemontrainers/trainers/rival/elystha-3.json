@@ -1,5 +1,5 @@
 {
-  "name": "trainer.royaume-loutre-mer-trainers.rival3.name",
+  "name": "Elystha",
   "skin": {
     "type": "texture",
     "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
@@ -18,14 +18,14 @@
     "Sableye\n- Shadow Claw\n- Fake Out\n- Will-O-Wisp\n- Knock Off"
   ],
   "messages": {
-    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival3-3.greeting",
-    "win": "trainer.royaume-loutre-mer-trainers.rival.rival3-3.win",
-    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival3-3.lose"
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.elystha-3.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.elystha-3.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.elystha-3.lose"
   },
   "requires": {
     "hidden": false,
     "defeated": [
-      "rival/rival3-2"
+      "rival/elystha-2"
     ]
   },
   "location": {
