@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:heart_of_the_sea"
+    },
+    "title": {
+      "translate": "advancement.royaume-loutre-mer-trainers.root.title"
+    },
+    "description": {
+      "translate": "advancement.royaume-loutre-mer-trainers.root.description"
+    },
+    "background": "minecraft:textures/block/prismarine_bricks.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ]
+}

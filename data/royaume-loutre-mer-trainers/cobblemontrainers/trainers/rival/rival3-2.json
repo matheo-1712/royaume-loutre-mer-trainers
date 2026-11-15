@@ -1,0 +1,38 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.rival3.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 38,
+    "difficulty": 4,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Haunter\n- Lick\n- Hypnosis\n- Night Shade\n- Shadow Punch",
+    "Murkrow\n- Wing Attack\n- Night Shade\n- Haze\n- Astonish",
+    "Zorua\n- Fury Swipes\n- Feint Attack\n- Torment\n- Scratch",
+    "Sableye\n- Shadow Claw\n- Fake Out\n- Will-O-Wisp\n- Knock Off"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival3-2.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.rival3-2.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival3-2.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/rival3-1"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 4]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

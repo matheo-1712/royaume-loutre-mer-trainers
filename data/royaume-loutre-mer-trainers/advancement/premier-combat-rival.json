@@ -1,10 +1,15 @@
 {
+  "parent": "royaume-loutre-mer-trainers:root",
   "display": {
     "icon": {
       "id": "cobblemon:poke_ball"
     },
-    "title": "Mon premier combat avec mon rival",
-    "description": "Battre une première fois son rival",
+    "title": {
+      "translate": "advancement.royaume-loutre-mer-trainers.premier-combat-rival.title"
+    },
+    "description": {
+      "translate": "advancement.royaume-loutre-mer-trainers.premier-combat-rival.description"
+    },
     "frame": "challenge",
     "hidden": true
   },

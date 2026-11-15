@@ -1,0 +1,30 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.maitre.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 75,
+    "difficulty": 5,
+    "intro": "bw"
+  },
+  "team": [
+    "Milotic\n- Scald\n- Ice Beam\n- Recover\n- Dragon Tail",
+    "Lapras\n- Freeze-Dry\n- Surf\n- Thunderbolt\n- Psychic",
+    "Togekiss\n- Air Slash\n- Dazzling Gleam\n- Aura Sphere\n- Roost",
+    "Metagross\n- Meteor Mash\n- Zen Headbutt\n- Earthquake\n- Bullet Punch",
+    "Volcarona\n- Fiery Dance\n- Bug Buzz\n- Giga Drain\n- Quiver Dance",
+    "Dragapult\n- Dragon Darts\n- Phantom Force\n- U-turn\n- Will-O-Wisp"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.ligue.maitre.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.ligue.maitre.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.ligue.maitre.lose"
+  },
+  "notCallable": true,
+  "progress": {
+    "listed": false
+  }
+}

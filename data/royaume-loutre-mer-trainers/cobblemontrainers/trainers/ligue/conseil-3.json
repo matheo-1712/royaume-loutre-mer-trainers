@@ -1,0 +1,27 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.conseil3.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 70,
+    "difficulty": 5,
+    "intro": "bw"
+  },
+  "team": [
+    "Alakazam\n- Psychic\n- Shadow Ball\n- Focus Blast\n- Calm Mind",
+    "Gardevoir\n- Moonblast\n- Psychic\n- Thunderbolt\n- Calm Mind",
+    "Bronzong\n- Gyro Ball\n- Psychic\n- Earthquake\n- Trick Room"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.ligue.conseil-3.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.ligue.conseil-3.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.ligue.conseil-3.lose"
+  },
+  "notCallable": true,
+  "progress": {
+    "listed": false
+  }
+}

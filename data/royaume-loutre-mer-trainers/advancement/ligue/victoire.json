@@ -1,0 +1,29 @@
+{
+  "parent": "royaume-loutre-mer-trainers:root",
+  "display": {
+    "icon": {
+      "id": "cobblemon:master_ball"
+    },
+    "title": {
+      "translate": "advancement.royaume-loutre-mer-trainers.ligue.victoire.title"
+    },
+    "description": {
+      "translate": "advancement.royaume-loutre-mer-trainers.ligue.victoire.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "defeated": {
+      "trigger": "cobblemon-trainers:league_completed",
+      "conditions": {
+        "league": "royaume-loutre-mer-trainers:ligue/conseil"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "defeated"
+    ]
+  ]
+}

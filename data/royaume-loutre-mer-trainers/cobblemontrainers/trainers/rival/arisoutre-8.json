@@ -1,0 +1,40 @@
+{
+  "name": "Arisoutre",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 66,
+    "difficulty": 5,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Empoleon @ Sitrus Berry\nAspects: rlm\n- Surf\n- Flash Cannon\n- Drill Peck\n- Ice Beam",
+    "Luxray @ Sitrus Berry\nAspects: rlm\n- Wild Charge\n- Crunch\n- Ice Fang\n- Volt Switch",
+    "Staraptor @ Sitrus Berry\nAspects: rlm\n- Brave Bird\n- Close Combat\n- U-turn\n- Quick Attack",
+    "Roserade @ Sitrus Berry\nAspects: rlm\n- Giga Drain\n- Sludge Bomb\n- Shadow Ball\n- Sleep Powder",
+    "Garchomp @ Sitrus Berry\nAspects: rlm\n- Earthquake\n- Dragon Claw\n- Crunch\n- Stone Edge",
+    "Lucario @ Sitrus Berry\nAspects: rlm\n- Aura Sphere\n- Flash Cannon\n- Dragon Pulse\n- Extreme Speed"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-8.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-8.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-8.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/arisoutre-7"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 8]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

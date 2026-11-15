@@ -1,0 +1,38 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.rival2.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 42,
+    "difficulty": 4,
+    "music": "royaume-loutre-mer-trainers:battle_music.bw2_rival_battle_theme",
+    "intro": "bw"
+  },
+  "team": [
+    "Pyroar\n- Flamethrower\n- Hyper Voice\n- Dark Pulse\n- Noble Roar",
+    "Corvisquire\n- Pluck\n- Power Trip\n- Swagger\n- Scary Face",
+    "Carkol\n- Flame Charge\n- Rock Blast\n- Smokescreen\n- Ancient Power",
+    "Sandaconda\n- Drill Run\n- Glare\n- Coil\n- Brutal Swing"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.rival.rival2-3.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.rival.rival2-3.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.rival.rival2-3.lose"
+  },
+  "requires": {
+    "hidden": false,
+    "defeated": [
+      "rival/rival2-2"
+    ]
+  },
+  "location": {
+    "label": "[LIEU — chapitre 5]"
+  },
+  "progress": {
+    "hideAfterDefeat": true,
+    "rematch": "never"
+  }
+}

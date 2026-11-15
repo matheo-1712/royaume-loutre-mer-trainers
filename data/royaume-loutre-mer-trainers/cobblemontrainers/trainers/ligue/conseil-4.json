@@ -1,0 +1,27 @@
+{
+  "name": "trainer.royaume-loutre-mer-trainers.conseil4.name",
+  "skin": {
+    "type": "texture",
+    "value": "royaume-loutre-mer-trainers:textures/trainers/arisoutre.png",
+    "model": "slim"
+  },
+  "battle": {
+    "level": 71,
+    "difficulty": 5,
+    "intro": "bw"
+  },
+  "team": [
+    "Dragonite\n- Outrage\n- Extreme Speed\n- Fire Punch\n- Dragon Dance",
+    "Salamence\n- Dragon Claw\n- Flamethrower\n- Aerial Ace\n- Crunch",
+    "Haxorus\n- Outrage\n- Earthquake\n- Poison Jab\n- Dragon Dance"
+  ],
+  "messages": {
+    "greeting": "trainer.royaume-loutre-mer-trainers.ligue.conseil-4.greeting",
+    "win": "trainer.royaume-loutre-mer-trainers.ligue.conseil-4.win",
+    "lose": "trainer.royaume-loutre-mer-trainers.ligue.conseil-4.lose"
+  },
+  "notCallable": true,
+  "progress": {
+    "listed": false
+  }
+}
