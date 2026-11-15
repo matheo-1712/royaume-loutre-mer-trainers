@@ -14,8 +14,8 @@
   "team": [
     "Prinplup @ Sitrus Berry\nAspects: rlm\n- Bubble Beam\n- Peck\n- Metal Claw\n- Growl",
     "Luxray @ Sitrus Berry\nAspects: rlm\n- Wild Charge\n- Crunch\n- Ice Fang\n- Volt Switch",
-    "Staravia @ Sitrus Berry\nAspects: rlm\n- Wing Attack\n- Quick Attack\n- Double Team\n- Aerial Ace",
-    "Roselia @ Sitrus Berry\nAspects: rlm\n- Mega Drain\n- Poison Sting\n- Magical Leaf\n- Stun Spore"
+    "Staravia @ Sitrus Berry\n- Wing Attack\n- Quick Attack\n- Double Team\n- Aerial Ace",
+    "Roselia @ Sitrus Berry\n- Mega Drain\n- Poison Sting\n- Magical Leaf\n- Stun Spore"
   ],
   "messages": {
     "greeting": "trainer.royaume-loutre-mer-trainers.rival.arisoutre-5.greeting",
